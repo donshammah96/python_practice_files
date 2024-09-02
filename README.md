@@ -5,7 +5,7 @@ Welcome to the Python Practice Files repository! This repository contains variou
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Repository Structure](#repository structure)
+- [Repository Structure](#projects)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
